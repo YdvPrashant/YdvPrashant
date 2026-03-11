@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFF&size=29&multiline=true&width=700&lines=Welcome+To+Prashant's+Github+Profile)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFF&size=29&multiline=true&width=700&lines=Welcome+To+Prashant's+Github+Profile)
 <br>
 
 - 🧑‍💻 I'm a Tech Enthusiast
