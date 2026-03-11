@@ -26,17 +26,27 @@
 
 <br>
 
- ## Languages and Tools:
+ ## Languages:
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
+<br>
+## Tools:
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-0078D4?style=for-the-badge&logo=react%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/Tailwind-4.1-06B6D4?logo=tailwind-css)
+![](https://img.shields.io/badge/PyTorch-2.12-green)
+![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![](https://img.shields.io/badge/-YOLO-FFCC00?style=flat&logo=python&logoColor=white&size=40x40)
 <br>
 
 ## Coding Platforms:
