@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFF&size=29&multiline=true&width=700&lines=Welcome+To+Prashant's+Github+Profile)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&size=29&multiline=true&width=700&lines=Welcome+To+Prashant's+Github+Profile" alt="Typing SVG" />
+</p>
 <br>
 
 - 🧑‍💻 I'm a Tech Enthusiast
