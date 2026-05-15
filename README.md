@@ -11,9 +11,6 @@
 <br>
 
 ## Links:
-<a href="https://www.youtube.com" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
 <a href="https://www.linkedin.com/in/prashant-yadav-9b5975226/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
