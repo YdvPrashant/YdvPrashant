@@ -14,12 +14,9 @@
 <a href="https://www.linkedin.com/in/prashant-yadav-9b5975226/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="" target="_blank" >
-    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-<a href="https://www.instagram.com/prashant_yadav0102/" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://www.ydvprashant.xyz/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=560&height=45&lines=Software+Engineer+%7C+AI+%2F+ML;Full-stack+web+and+computer+vision;Shipping+real%2C+deployed+products" alt="Software Engineer | AI / ML" />
+</a>
 
 <br>
 
