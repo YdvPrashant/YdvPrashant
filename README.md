@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&size=29&multiline=true&width=700&lines=Welcome+To+Prashant's+Github+Profile" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi, I am Prashant Yadav</h1>
+<p align="center">Full-Stack & ML Engineer</p>
+
 <br>
 
 - 🧑‍💻 I'm a Tech Enthusiast
@@ -8,6 +8,7 @@
 - 👓 I’m always looking to learn new technologies and to improve my skills.
 - 👋 I’m looking to collaborate More on Real World Problems and OpenSource.
 - 🤝 I'm a team player and I enjoy working collaboratively with others.
+
 <br>
 
 ## 🛠️ Tech Stack
@@ -25,25 +26,22 @@
 [![Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis)](https://skillicons.dev)
 
 **AI / ML & Computer Vision**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
-![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+[![Skills](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)](https://skillicons.dev)
 
 **Tools & Deployment**  
-[![Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux,bash,latex)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux,bash,npm,latex)](https://skillicons.dev)
 
-## Coding Platforms:
-<a href="https://www.leetcode.com/ydavprashant/" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/Leetcode-E4405F?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-<a href="https://www.hackerrank.com/profile/ydvprashant0508//" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/Hackerrank-E4405F?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  
-<br>
+> **Also:** YOLOv8 · Swin Transformer · RAG pipelines · LLM integration (Groq / Llama 3.3 70B) · Chrome Extensions (MV3) · REST API design
 
 <br>
+
+## 🧩 Coding Platforms
+
+<p align="left">
+  <a href="https://leetcode.com/u/ydavprashant/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ydvprashant0508" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a>
+</p>
