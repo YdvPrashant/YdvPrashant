@@ -10,28 +10,25 @@
 - 🤝 I'm a team player and I enjoy working collaboratively with others.
 <br>
 
- ## Languages:
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
- ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<br>
-<br>
-## Tools:
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/React-0078D4?style=for-the-badge&logo=react%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/-Tailwind%20CSS-%231a202c?style=for-the-badge&logo=tailwind-css)
-![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-2.12-green)
-![](https://img.shields.io/badge/-YOLO-FFCC00?style=flat&logo=python&logoColor=white&size=40x40)
-<br>
+## 🛠️ Tech Stack
+
+**Languages**  
+[![Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,html,css)](https://skillicons.dev)
+
+**Frontend**  
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+
+**Backend**  
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
+
+**Databases**  
+[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis)](https://skillicons.dev)
+
+**AI / ML & Computer Vision**  
+[![Skills](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)](https://skillicons.dev)
+
+**Tools & Deployment**  
+[![Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux)](https://skillicons.dev)
 
 ## Coding Platforms:
 <a href="https://www.leetcode.com/ydavprashant/" target="_blank">
