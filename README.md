@@ -13,10 +13,10 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
-[![Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,html,css)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,cpp,java,js)](https://skillicons.dev)
 
 **Frontend**  
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
 **Backend**  
 [![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
@@ -25,10 +25,16 @@
 [![Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis)](https://skillicons.dev)
 
 **AI / ML & Computer Vision**  
-[![Skills](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)](https://skillicons.dev)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 
 **Tools & Deployment**  
-[![Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux,bash,latex)](https://skillicons.dev)
 
 ## Coding Platforms:
 <a href="https://www.leetcode.com/ydavprashant/" target="_blank">
