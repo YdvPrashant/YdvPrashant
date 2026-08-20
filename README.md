@@ -10,19 +10,6 @@
 - 🤝 I'm a team player and I enjoy working collaboratively with others.
 <br>
 
-## Links:
-<a href="https://www.ydvprashant.xyz/" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-  
-<a href="https://www.linkedin.com/in/prashant-yadav-9b5975226/" target="_blank" >
-  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-<br>
-
-<br>
-
  ## Languages:
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
