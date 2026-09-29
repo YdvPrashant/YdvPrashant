@@ -1,13 +1,12 @@
-<h1 align="center">Hi, I am Prashant Yadav</h1>
-<p align="center">Full-Stack & ML Engineer</p>
+## Hi, I'm Prashant Yadav
+Full-stack & applied ML engineer · 2025 CSE grad (LPU). I build things end to end, from the model to the API to the UI.
 
-<br>
+**What I've built**
+- **[Prism](https://prismrefractor.in)**: live news-transparency platform. Separates claims from opinion, fact-checks them against live sources, traces who's behind the outlet. Next.js, TypeScript, Groq, Tavily, Postgres.
+- **[Ultimate Conflict Detection](https://github.com/YdvPrashant/Ultimate_Conflict_Detection)**: real-time conflict & weapon detection on video. YOLOv8 + Swin Transformer cascade, PR-AUC 0.81 on a leakage-free held-out test set.
+- **[ctximg](https://github.com/YdvPrashant/ctximg)**: offline photo search with CLIP embeddings. Runs fully local, 200+ tests.
 
-- 🧑‍💻 I'm a Tech Enthusiast
-- 🛜 I'm a web developer and a designer.
-- 👓 I’m always looking to learn new technologies and to improve my skills.
-- 👋 I’m looking to collaborate More on Real World Problems and OpenSource.
-- 🤝 I'm a team player and I enjoy working collaboratively with others.
+📫 Open to SDE / AI-ML roles & internships · ydvprashant0508@gmail.com
 
 <br>
 
@@ -31,8 +30,7 @@
 **Tools & Deployment**  
 [![Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux,bash,npm,latex)](https://skillicons.dev)
 
-> **Also:** YOLOv8 · Swin Transformer · RAG pipelines · LLM integration (Groq / Llama 3.3 70B) · Chrome Extensions (MV3) · REST API design
-
+> **Also:** YOLOv8 · Swin Transformer · RAG pipelines · LLM integration (Groq, gpt-oss-120b) · Chrome Extensions (MV3) · REST API design
 <br>
 
 ## 🧩 Coding Platforms
